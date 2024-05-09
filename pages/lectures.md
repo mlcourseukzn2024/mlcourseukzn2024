@@ -149,9 +149,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://schdscourseukzn.github.io/PDFLectures/day_02_lab2.Rmd" download> Lab 2 </a> <br>
 
 <a href="https://schdscourseukzn.github.io/PDFLectures/day_02_lab1_solutions.Rmd" download> Lab 1 Solutions </a> <br>
-<!--
-<a href="https://schdscourseukzn.github.io/PDFLectures/day_02_lab2_solutions.Rmd" download> Lab 1 Solutions </a> <br>
--->
+
 
 
 <h4> Day 3:</h4>
@@ -181,39 +179,6 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://schdscourseukzn.github.io/PDFLectures/day_05_case_study_covid19.zip" download> Mini Project - Participants </a> <br>
 
-<!--
-<h4> Day 6:</h4>
-
-<a href="https://hscourseukzn.github.io/PDFLectures/DSI-Africa_quasiexperimental.pdf" download> DSI-Africa Quasi Experimental - Prof. Till </a> <br>
-
-<h4> Day 7:</h4>
-
-<a href="https://hscourseukzn.github.io/PDFLectures/DSI-Africa dimension reduction.pdf" download> Dimension Reduction - Prof. Till </a> <br>
-
-<a href="https://hscourseukzn.github.io/PDFLectures/HS_prac2.Rmd" download> PCA Practical - Dr. Mohanad </a> <br>
-
-<a href="https://hscourseukzn.github.io/PDFLectures/Assets_Data - prac.csv" download> Assets Data - PCA Practical - Dr. Mohanad </a> <br>
-
-<h4> Day 8:</h4>
-<a href="https://hscourseukzn.github.io/PDFLectures/DSI-Africa cluster analysis.pdf" download> DSI-Africa cluster analysis - Prof. Till </a> <br>
-
-<a href="https://hscourseukzn.github.io/PDFLectures/clustering_data_final.csv" download> Dataset - Clustering Analysis Practical - Dr. Mohanad </a> <br>
-
-<a href="https://hscourseukzn.github.io/PDFLectures/Clustering Practical Session 3.Rmd" download> Clustering Practical Session 3 - Dr. Mohanad </a> <br>
-
-<a href="https://uc-r.github.io/kmeans_clustering"> Tutorial </a> <br>
-
-
-<h4> Day 9:</h4>
-
-<a href="https://hscourseukzn.github.io/PDFLectures/Prediction_30Aug23.pdf" download> Prediction - Prof. Till </a> <br>
-
-<a href="https://hscourseukzn.github.io/PDFLectures/Data_group_Prac.csv" download> Dataset - Prediction Practical - Dr. Mohanad </a> <br>
-
-<a href="https://hscourseukzn.github.io/PDFLectures/Prediction - Practical.Rmd" download> Prediction - Practical - Dr. Mohanad </a> <br>
-
-<a href="https://rpubs.com/pmtam/knn"> Tutorial </a> <br>
--->
 
 -->
 </body>
