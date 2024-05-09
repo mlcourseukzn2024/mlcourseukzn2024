@@ -3,6 +3,7 @@ layout: page
 title: Course Participants 
 --- 
 
+<!--
 <h4 style="color:DodgerBlue;"> Ninza	Sheyo,  Postgraduate Student in Public Health, University of KwaZulu-Natal </h4> 
 Email: <a href="mailto:ninza.sheyo@gmail.com">ninza.sheyo@gmail.com</a> <br>
 <p align="justify"> <img src="../figures/Ninza_Sheyo.jpg" alt="Sheyo" style="float:left; width:100px; height:100px; padding: 10px;"><span style="vertical-align:bottom"> Ninza	Sheyo is an anaesthesiologist and a critical care specialist with a particular interest in health systems strengthening, global health and humanitarian medicine. My goal is to optimise operational efficiency, drive growth in the donor base, and maintain the highest standards of quality and safety in blood services. <br>
@@ -58,5 +59,5 @@ Email: <a href="mailto:sam.p.ngcobo@gmail.com">sam.p.ngcobo@gmail.com</a> <br>
 <p align="justify"> <img src="../figures/Samke_Ngcobo.jpg" alt="Samkelisiwe" style="float:left; width:100px; height:100px; padding: 10px;"><span style="vertical-align:bottom"> Samkelisiwe Ngcobo is a postdoctoral research fellow at the University of KwaZulu-Natal (UKZN), her passion for animals and the natural world fuels her pursuit of ecological understanding. Driven by this passion, her research focuses on the complex dynamics of human-wildlife conflicts amplified by anthropogenic change, particularly within urban ecosystems. Through this work, she seeks to contribute to wildlife conservation in these rapidly changing environments. <br>
 <b>Research Interest: </b> Anthropogenic changes; conservation; biodiversity; urban ecology. </span> </p> <br>
 
-
+-->
 
