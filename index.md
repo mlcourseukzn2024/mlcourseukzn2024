@@ -124,7 +124,7 @@ title: Statistical Computing for Health Data Science
 
 <h1 style="background-color:white; color:black; text-align: center;"> Data Science Initiative for Africa (DSI-A) Training Programme </h1>
 
-<h2 style="background-color:white; color:black; text-align: center;"> A Short Course in Statistical Computing for Health Data Science </h2>
+<h2 style="background-color:white; color:black; text-align: center;"> A Short Course in Machine Learning for Health Data Science </h2>
 
 
 <h3 style="background-color:white; color:Red; text-align: center;"> All lectures will start from 9:00 AM - 4:30 PM </h3> <br>
@@ -132,7 +132,7 @@ title: Statistical Computing for Health Data Science
 <!-- <h2 style="background-color:white; color:black; text-align: left;"> Virtual BootCamp: 19 – 23 June 2023 </h2> -->
 <!-- <h4 style="background-color:white; color:black; text-align: left;"> Please use the following link: <a href="https://ukzn.zoom.us/j/98032587955?pwd=TnkzUHpvc0txMTA1WWViNVZseTVEdz09" target="_blank"><span style="text-align:center">ZOOM LINK</span></a>. </h4> -->
 
-<h2 style="background-color:white; color:black; text-align: left;"> Dates: Monday, 15th – Friday, 19th April 2024 </h2> 
+<h2 style="background-color:white; color:black; text-align: left;"> Dates: Monday, 17th – Friday, 17th May 2024 </h2> 
 
 <h4 style="background-color:white; color:black; text-align: left;"> Venue: <a href="https://www.thegatewayhotel.co.za/" target="_blank"><span style="text-align:center">Gateway Hotel</span></a>, Cnr Centenary Blvd & Twilight Dr, Umhlanga Ridge, Umhlanga, Durban, KwaZulu Natal. </h4>
 <!--<h4 style="background-color:white; color:black; text-align: left;"> Virtual Link: <a href="https://www.google.com/url?q=https://ukzn.zoom.us/j/93891463089?pwd%3DeFN3ZjR4eUNJLzZwVEhmRVZXeHJxQT09&sa=D&source=calendar&usd=2&usg=AOvVaw1yN0XnFQ1sfYfzHrpjoIa6" target="_blank"><span style="text-align:center">Join Lectures</span></a> </h4> <br>-->
@@ -238,11 +238,11 @@ Below is an outline of the current plan for course topics and schedule. It is in
   </tr>
   <tr>
     <td class="tg-amwm"><b>9:00-10:30</b></td>
-    <td class="tg-0lax">[9:00 – 9:10] Introduction to course <br> [9:10 – 9:40] Pre-knowledge test <br> [9:40 – 10:30] Data wrangling</td>
-    <td class="tg-0lax">String Processing</td>
-    <td class="tg-0lax">Introduction to ggplot2</td>
-    <td class="tg-0lax">Maps</td>
-    <td class="tg-0lax">Swine Flu case study (Project)</td>
+    <td class="tg-0lax">Introduction to ML modelling and performance metrics</td>
+    <td class="tg-0lax">KNN</td>
+    <td class="tg-0lax">Random forests: Regression and classification trees</td>
+    <td class="tg-0lax">Cross-Validation</td>
+    <td class="tg-0lax">Mini projects</td>
   </tr>
   <tr>
     <td class="tg-amwm"><b>10:30-10:45</b></td>
@@ -254,11 +254,11 @@ Below is an outline of the current plan for course topics and schedule. It is in
   </tr>
   <tr>
     <td class="tg-amwm"><b>10:45-12:00</b></td>
-    <td class="tg-0lax">Reshaping data, combining tables</td>
-    <td class="tg-0lax">String Processing</td>
-    <td class="tg-0lax">Visualization principles</td>
-    <td class="tg-0lax">Vaccines case study</td>
-    <td class="tg-0lax">COVID-19 case study (Project)</td>
+    <td class="tg-0lax">Introduction to ML modelling</td>
+    <td class="tg-0lax">LDA and QDA</td>
+    <td class="tg-0lax">Ridge and LASSO Regression</td>
+    <td class="tg-0lax">SVM</td>
+    <td class="tg-0lax">Mini projects</td>
   </tr>
   <tr>
     <td class="tg-amwm"><b>12:00-13:00</b></td>
@@ -270,11 +270,11 @@ Below is an outline of the current plan for course topics and schedule. It is in
   </tr>
   <tr> 
     <td class="tg-amwm"><b>13:00-14:30</b></td>
-    <td class="tg-0lax">Advanced data wrangling, Dates, Times, web scraping</td>
-    <td class="tg-0lax">String splitting</td>
-    <td class="tg-0lax">Visualization principles continued</td>
-    <td class="tg-0lax">Vaccines case study</td>
-    <td class="tg-0lax">Presentations and Discussion</td>
+    <td class="tg-0lax">Conditional probabilities, logistic regression, and Naïve Bayes</td>
+    <td class="tg-0lax">Decision trees</td>
+    <td class="tg-0lax">Ridge and LASSO Regression</td>
+    <td class="tg-0lax">Multinomial Regression</td>
+    <td class="tg-0lax">Guest Speaker on data science (Prof. Mwambi)</td>
   </tr>
   <tr>
     <td class="tg-amwm"><b>14:30-14:45</b></td>
@@ -286,11 +286,11 @@ Below is an outline of the current plan for course topics and schedule. It is in
   </tr>
   <tr> 
     <td class="tg-amwm"><b>14:45-16:00</b></td>
+    <td class="tg-0lax">Conditional probabilities, logistic regression, and Naïve Bayes</td>
+    <td class="tg-0lax">Guest Speaker on data science (Dr. Heather)</td>
     <td class="tg-0lax">Practical</td>
     <td class="tg-0lax">Practical</td>
-    <td class="tg-0lax">Practical</td>
-    <td class="tg-0lax">Practical</td>
-    <td class="tg-0lax">Closing Ceremony, 6pm closing dinner</td>
+    <td class="tg-0lax">Presentation and Discussion</td>
   </tr>
   
 </table>
