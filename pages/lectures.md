@@ -123,7 +123,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 
 
-
+<!--
 
 <h4> Day 1:</h4>
 
@@ -215,6 +215,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://rpubs.com/pmtam/knn"> Tutorial </a> <br>
 -->
 
+-->
 </body>
 </html>
 
