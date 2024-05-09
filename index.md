@@ -132,9 +132,9 @@ title: Statistical Computing for Health Data Science
 <!-- <h2 style="background-color:white; color:black; text-align: left;"> Virtual BootCamp: 19 – 23 June 2023 </h2> -->
 <!-- <h4 style="background-color:white; color:black; text-align: left;"> Please use the following link: <a href="https://ukzn.zoom.us/j/98032587955?pwd=TnkzUHpvc0txMTA1WWViNVZseTVEdz09" target="_blank"><span style="text-align:center">ZOOM LINK</span></a>. </h4> -->
 
-<h2 style="background-color:white; color:black; text-align: left;"> Dates: Monday, 17th – Friday, 17th May 2024 </h2> 
+<h2 style="background-color:white; color:black; text-align: left;"> Dates: Monday, 13th – Friday, 17th May 2024 </h2> 
 
-<h4 style="background-color:white; color:black; text-align: left;"> Venue: <a href="https://www.thegatewayhotel.co.za/" target="_blank"><span style="text-align:center">Gateway Hotel</span></a>, Cnr Centenary Blvd & Twilight Dr, Umhlanga Ridge, Umhlanga, Durban, KwaZulu Natal. </h4>
+<h4 style="background-color:white; color:black; text-align: left;"> Venue: <a href="https://www.southernsun.com/southern-sun-elangeni-maharani" target="_blank"><span style="text-align:center">Southern Sun Elangeni and Maharani hotel</span></a>, 63 Snell Parade, North Beach, Durban, South Africa . </h4>
 <!--<h4 style="background-color:white; color:black; text-align: left;"> Virtual Link: <a href="https://www.google.com/url?q=https://ukzn.zoom.us/j/93891463089?pwd%3DeFN3ZjR4eUNJLzZwVEhmRVZXeHJxQT09&sa=D&source=calendar&usd=2&usg=AOvVaw1yN0XnFQ1sfYfzHrpjoIa6" target="_blank"><span style="text-align:center">Join Lectures</span></a> </h4> <br>-->
 
 <!-- <a href="https://www.southernsun.com/southern-sun-elangeni-maharani" target="_blank"><span style="text-align:center">Elangeni Hotel</span></a>, 63 Snell Parade, North Beach, Durban, 4001. -->
