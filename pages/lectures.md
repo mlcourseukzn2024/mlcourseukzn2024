@@ -123,20 +123,16 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 
 
-<!--
+
 
 <h4> Day 1:</h4>
 
-<a href="https://schdscourseukzn.github.io/PDFLectures/Day_01_lecture1.zip" download> lecture 1 - Dr. Gabriel Kallah-Dagadu </a> <br>
+<a href="https://mlcourseukzn2024.github.io/PDFLectures/Day1.zip" download> lecture 1 - Dr. Mohanad Mohammed </a> <br>
 
-<a href="https://schdscourseukzn.github.io/PDFLectures/day_01_lecture2.Rmd" download> lecture 2 - Dr. Mohanad Mohammed </a> <br>
-
-<a href="https://schdscourseukzn.github.io/PDFLectures/day_01_lab1.Rmd" download> Lab 1 </a> <br>
-
-<a href="https://schdscourseukzn.github.io/PDFLectures/day_01_lab1_solutions.Rmd" download> Lab 1 Solutions </a> <br>
+<a href="https://mlcourseukzn2024.github.io/PDFLectures/Day1.zip" download> lecture 2 - Dr. Gabriel Kallah-Dagadu </a> <br>
 
 
-
+<!--
 
 <h4> Day 2:</h4>
 
