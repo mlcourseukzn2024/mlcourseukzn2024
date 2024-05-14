@@ -138,6 +138,8 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://mlcourseukzn2024.github.io/PDFLectures/03_decision-trees.Rmd" download> lecture 2 - Dr. Mohanad Mohammed </a> <br>
 
+<a href="https://mlcourseukzn2024.github.io/PDFLectures/lab_01.Rmd" download> lab 1 </a> <br>
+
 
 <!--
 
