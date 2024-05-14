@@ -132,6 +132,13 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://mlcourseukzn2024.github.io/PDFLectures/Day1.zip" download> lecture 2 - Dr. Gabriel Kallah-Dagadu </a> <br>
 
 
+<h4> Day 2:</h4>
+
+<a href="https://mlcourseukzn2024.github.io/PDFLectures/02_qda_lda_roc.Rmd" download> lecture 1 - Dr. Gabriel Kallah-Dagadu </a> <br>
+
+<a href="https://mlcourseukzn2024.github.io/PDFLectures/03_decision-trees.Rmd" download> lecture 2 - Dr. Mohanad Mohammed </a> <br>
+
+
 <!--
 
 <h4> Day 2:</h4>
