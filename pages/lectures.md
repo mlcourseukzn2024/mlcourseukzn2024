@@ -142,7 +142,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <h4> Day 3:</h4>
 
-<a href="https://mlcourseukzn2024.github.io/PDFLectures/04_regularization.Rmd" download> lecture 2 - Dr. Gabriel Kallah-Dagadu </a> <br>
+<a href="https://mlcourseukzn2024.github.io/PDFLectures/04_regularization.zip" download> lecture 2 - Dr. Gabriel Kallah-Dagadu </a> <br>
 
 
 <!--
