@@ -146,11 +146,11 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <h4> Day 4:</h4>
 
-<a href="https://mlcourseukzn2024.github.io/PDFLectures/05_cross-validation.Rmd" download> lecture 1 - Dr. Mohanad Mohammed </a> <br>
+<a href="https://mlcourseukzn2024.github.io/PDFLectures/05_cross-validation.zip" download> lecture 1 - Dr. Mohanad Mohammed </a> <br>
 
 <a href="https://mlcourseukzn2024.github.io/PDFLectures/06_SVM.Rmd" download> lecture 2 - Dr. Mohanad Mohammed </a> <br>
 
-<a href="https://mlcourseukzn2024.github.io/PDFLectures/07_multinomial_regression.Rmd" download> lecture 3 - Dr. Gabriel Kallah-Dagadu </a> <br>
+<a href="https://mlcourseukzn2024.github.io/PDFLectures/07_multinomial_regression.zip" download> lecture 3 - Dr. Gabriel Kallah-Dagadu </a> <br>
 
 
 
